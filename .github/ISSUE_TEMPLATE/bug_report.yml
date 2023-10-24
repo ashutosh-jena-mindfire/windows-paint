@@ -1,7 +1,6 @@
 name: "Bug report"
-description:"Thanks for taking the time to fill out this bug! If you need real-time help, join us on Discord."
+description: "Thanks for taking the time to fill out this bug! If you need real-time help, join us on Discord."
 title: "[BUG]"
-labels: bug
 body:
   - type: textarea
     id: Describe the bug
