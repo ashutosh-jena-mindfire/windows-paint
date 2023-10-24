@@ -3,7 +3,7 @@ description: "Thanks for taking the time to fill out this bug! If you need real-
 title: "[BUG]"
 body:
   - type: textarea
-    id: Describe the bug
+    id: Describe-the-bug
     attributes:
       label: Describe the bug
       placeholder: A clear and concise description of the bug.
