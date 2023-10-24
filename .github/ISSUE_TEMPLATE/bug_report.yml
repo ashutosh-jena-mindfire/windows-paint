@@ -1,6 +1,5 @@
 name: "Bug report"
-description:
-  value: "Thanks for taking the time to fill out this bug! If you need real-time help, join us on Discord."
+description:"Thanks for taking the time to fill out this bug! If you need real-time help, join us on Discord."
 title: "[BUG]"
 labels: bug
 body:
